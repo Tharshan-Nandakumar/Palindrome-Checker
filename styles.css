@@ -1,0 +1,12 @@
+* {
+    background-color:black;
+    color:gold;
+  }
+  
+  h1, #text-input, #check-btn, #result {
+    display:flex;
+    margin:auto;
+    width:max-width;
+    justify-content:center;
+    margin-top:10px;
+  }
